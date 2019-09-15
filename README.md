@@ -11,8 +11,8 @@ Object detection app trained on custom dataset (Laptop, Bottle)
 
 **Examples of detection**
 
-*Detection of Bottle
+*Detection of Bottle*
 ![](Images/detectionBottle.jpg)
 
-*Detection of Laptop
+*Detection of Laptop*
 ![](Images/detectionLaptop.jpg)
